@@ -1,5 +1,5 @@
 # GuildSaber mod release repo
   The code of the mod is stored in a private repo, it will be public later
 # Player card
-  Allows your level ingame
-  Players above level30 can customize the color
+  Allows you to see your level ingame
+  Players level 30 or above can customize the color
